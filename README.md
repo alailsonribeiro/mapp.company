@@ -18,7 +18,7 @@ Os serviços de estratégia de aplicativos para dispositivos móveis são basead
 Somos responsáveis ​​pela qualidade de todos os nossos produtos e buscamos a perfeição. Quando o produto já é lançado e publicado nos mercados de aplicativos, oferecemos um suporte contínuo ao desenvolvimento de aplicativos para nossos clientes.
 
 # DESIGN DE APLICATIVOS UX/UI
-O design de aplicativos para dispositivos móveis é muito mais do que efeitos visuais. É sobre o relacionamento entre o produto e o usuário. Enquanto trabalhamos em qualquer projeto da The App Solutions, pensamos principalmente no usuário final e em sua impressão do produto.
+O design de aplicativos para dispositivos móveis é muito mais do que efeitos visuais. É sobre o relacionamento entre o produto e o usuário. Enquanto trabalhamos em qualquer projeto da Mapp.Company, pensamos principalmente no usuário final e em sua impressão do produto.
 
 # APLICATIVOS MÓVEIS
 Os dispositivos móveis já se tornaram predominantes no desktop. Nas condições atuais do mercado, um aplicativo móvel é obrigatório para empresas e startups.
