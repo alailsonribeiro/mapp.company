@@ -4,7 +4,7 @@ LAND PAGE & SITE
 
 
 # CONSTRUÍMOS SOLUÇÕES INTELIGENTES
-Somos apaixoxonados por criar soluções de software online que buscam permanentemente gerar excelencia e valor para o seu negócio rumo ao sucesso sentido pelo seus clientes!
+Somos apaixonados por criar soluções de software online que buscam permanentemente gerar excelência e valor para o seu negócio rumo ao sucesso sentido pelo seus clientes!
 
 
 # Nossos Serviços
